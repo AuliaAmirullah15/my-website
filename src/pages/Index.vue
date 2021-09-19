@@ -47,7 +47,7 @@
             >
               <q-card class="q-ma-sm text-black text-sans-serif">
                 <img src="~assets/suci-kurnia.png" style="height: 150px;" v-if="index === 0"/>
-                <img src="~assets/Beauty-spa.png" style="height: 150px;" v-if="index === 1"/>
+                <img src="~assets/Beauty-Spa.png" style="height: 150px;" v-if="index === 1"/>
                 <img src="~assets/market-place-coach.png" style="height: 150px;" v-if="index === 2"/>
                 <img src="~assets/qinventory.png" style="height: 150px;" v-if="index === 3"/>
                 <img src="~assets/backend-inventory.png" style="height: 150px;" v-if="index === 4"/>
