@@ -81,7 +81,7 @@
           </div>
         </div>
       </q-carousel-slide>
-      <q-carousel-slide name="layers" class="column no-wrap flex-center">
+      <!-- <q-carousel-slide name="layers" class="column no-wrap flex-center">
         <q-icon name="layers" size="56px" />
         <div class="q-mt-md text-center">
           {{ lorem }}
@@ -92,7 +92,7 @@
         <div class="q-mt-md text-center">
           {{ lorem }}
         </div>
-      </q-carousel-slide>
+      </q-carousel-slide> -->
     </q-carousel>
   </q-page>
 </template>
