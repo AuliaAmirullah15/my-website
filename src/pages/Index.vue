@@ -19,8 +19,9 @@
           <q-avatar size="150px">
             <img src="~assets/fotokuu.jpg" style="object-fit: cover" />
           </q-avatar>
-          <p class="text-name no-margin text-montserrat">Aulia Amirullah</p>
-          <p class="text-desc no-margin">26 Years Old</p>
+          <p class="text-name no-margin text-montserrat">
+            Aulia Amirullah Zulkarneidi
+          </p>
           <p class="text-desc no-margin">Front-end Developer</p>
           <p class="text-desc no-margin">
             <span><q-icon name="fas fa-map-marker-alt" /></span> Newcastle,
