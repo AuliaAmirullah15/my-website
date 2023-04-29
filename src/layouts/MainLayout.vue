@@ -27,7 +27,7 @@
         <a href="https://www.facebook.com/aulia.amirullah.75/"
           ><q-icon name="facebook" class="col"
         /></a>
-        <a href="https://google.com"
+        <a href="https://www.linkedin.com/in/aulia-amirullah-a4084b154/"
           ><q-icon name="fab fa-linkedin" class="col"
         /></a>
       </div>
